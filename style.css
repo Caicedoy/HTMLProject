@@ -8,4 +8,7 @@ body{
 
 p{
 	color:black;
+	font-size:20;
+	background:blue;
+	font-family:Verdana;
 }
